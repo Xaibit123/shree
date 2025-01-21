@@ -1,0 +1,41 @@
+62468732 --- Router password
+192.168.0.1 --- Gateway of my router
+192.168.0.102-----IP Address of my router
+rtsp://admin:admin123@192.168.0.103:554/ch0_0.264 --- My RTSP link of my Camera
+
+rtsp://admin:VCVOIC@45.249.168.237:554 ---- Pooja's RTSP(After Portforwarding)
+
+EC2 instance details
+--------------------
+
+rtsp://admin:admin123@192.168.29.176:554/ch0_0.264 --- RTSp link at Dinu's place
+
+
+---------------------------------------------------------------------------
+
+IAM username : Pooja
+ 
+Pavithram@13 : password
+ 
+xaibitlabs-aws-dev-general : Account ID
+
+45.64.214.208
+
+rtsp://admin:admin@45.64.214.208:554/ch0_0.264
+ 
+ 
+
+can we connect backend sqlite and frontend  React with Flask server, with Huggingface and Gradio for deployment
+ 
+751728
+ 
+video123 buket 
+ -------------------------------------------------------
+
+
+https://www.youtube.com/watch?v=tjHPC18jVwU&t=441s --- Deployment in railway app
+
+
+Github account login details
+Xaibit123
+Xaibitshylashree --password
